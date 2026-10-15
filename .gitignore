@@ -1,0 +1,3 @@
+cat-facts-challenge-venv/
+__pycache__/
+.pytest_cache/
